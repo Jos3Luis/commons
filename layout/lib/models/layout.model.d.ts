@@ -1,5 +1,5 @@
 import { CoreBrowserStorage } from 'everiscore';
-import { Observable } from 'rxjs/Observable';
+import { Observable } from 'rxjs';
 import { ILayoutsComponent } from '../layout.interface';
 export declare class Layout {
     private layouts;
