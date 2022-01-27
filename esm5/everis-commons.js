@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { ServicesModule, EvLocalStorage, EvMemoryStorage, EvSessionStorage, EvCommonsModule, DigitScorePipe, PipesModule } from './public_api';
+export { _localStorage as ɵa, _memoryStorage as ɵc, _sessionStorage as ɵb } from './lib/services/services.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXZlcmlzLWNvbW1vbnMuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AZXZlcmlzL2NvbW1vbnMvIiwic291cmNlcyI6WyJldmVyaXMtY29tbW9ucy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsZ0lBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxhQUFhLElBQUksRUFBRSxFQUFDLGNBQWMsSUFBSSxFQUFFLEVBQUMsZUFBZSxJQUFJLEVBQUUsRUFBQyxNQUFNLGdDQUFnQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge19sb2NhbFN0b3JhZ2UgYXMgybVhLF9tZW1vcnlTdG9yYWdlIGFzIMm1Yyxfc2Vzc2lvblN0b3JhZ2UgYXMgybVifSBmcm9tICcuL2xpYi9zZXJ2aWNlcy9zZXJ2aWNlcy5tb2R1bGUnOyJdfQ==

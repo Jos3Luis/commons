@@ -1,0 +1,7 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { EvLoggerModule } from './lib/ev-logger.module';
+export { EvLogger } from './lib/ev-logger.services';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL0BldmVyaXMvY29tbW9ucy9sb2dnZXIvIiwic291cmNlcyI6WyJwdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxPQUFPLEVBQUUsY0FBYyxFQUFFLE1BQU0sd0JBQXdCLENBQUM7QUFDeEQsT0FBTyxFQUFFLFFBQVEsRUFBRSxNQUFNLDBCQUEwQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgRXZMb2dnZXJNb2R1bGUgfSBmcm9tICcuL2xpYi9ldi1sb2dnZXIubW9kdWxlJztcbmV4cG9ydCB7IEV2TG9nZ2VyIH0gZnJvbSAnLi9saWIvZXYtbG9nZ2VyLnNlcnZpY2VzJztcbiJdfQ==

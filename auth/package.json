@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/everis-commons-auth.umd.js",
+  "module": "../fesm5/everis-commons-auth.js",
+  "es2015": "../fesm2015/everis-commons-auth.js",
+  "esm5": "../esm5/auth/everis-commons-auth.js",
+  "esm2015": "../esm2015/auth/everis-commons-auth.js",
+  "fesm5": "../fesm5/everis-commons-auth.js",
+  "fesm2015": "../fesm2015/everis-commons-auth.js",
+  "typings": "everis-commons-auth.d.ts",
+  "metadata": "everis-commons-auth.metadata.json",
+  "sideEffects": false,
+  "name": "everiscommons/auth"
+}

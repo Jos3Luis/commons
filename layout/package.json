@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/everis-commons-layout.umd.js",
+  "module": "../fesm5/everis-commons-layout.js",
+  "es2015": "../fesm2015/everis-commons-layout.js",
+  "esm5": "../esm5/layout/everis-commons-layout.js",
+  "esm2015": "../esm2015/layout/everis-commons-layout.js",
+  "fesm5": "../fesm5/everis-commons-layout.js",
+  "fesm2015": "../fesm2015/everis-commons-layout.js",
+  "typings": "everis-commons-layout.d.ts",
+  "metadata": "everis-commons-layout.metadata.json",
+  "sideEffects": false,
+  "name": "everiscommons/layout"
+}

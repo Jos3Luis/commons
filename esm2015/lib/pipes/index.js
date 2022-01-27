@@ -1,0 +1,6 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+export { DigitScorePipe } from './digit-with-score.pipe';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AZXZlcmlzL2NvbW1vbnMvIiwic291cmNlcyI6WyJsaWIvcGlwZXMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLE9BQU8sRUFBRSxjQUFjLEVBQUUsTUFBTSx5QkFBeUIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCB7IERpZ2l0U2NvcmVQaXBlIH0gZnJvbSAnLi9kaWdpdC13aXRoLXNjb3JlLnBpcGUnO1xuIl19

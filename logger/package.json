@@ -1,0 +1,13 @@
+{
+  "main": "../bundles/everis-commons-logger.umd.js",
+  "module": "../fesm5/everis-commons-logger.js",
+  "es2015": "../fesm2015/everis-commons-logger.js",
+  "esm5": "../esm5/logger/everis-commons-logger.js",
+  "esm2015": "../esm2015/logger/everis-commons-logger.js",
+  "fesm5": "../fesm5/everis-commons-logger.js",
+  "fesm2015": "../fesm2015/everis-commons-logger.js",
+  "typings": "everis-commons-logger.d.ts",
+  "metadata": "everis-commons-logger.metadata.json",
+  "sideEffects": false,
+  "name": "everiscommons/logger"
+}

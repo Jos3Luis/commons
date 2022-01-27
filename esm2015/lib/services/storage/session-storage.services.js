@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+import { Injectable } from '@angular/core';
+import { CoreBrowserStorage } from 'everiscore';
+export class EvSessionStorage extends CoreBrowserStorage {
+}
+EvSessionStorage.decorators = [
+    { type: Injectable }
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic2Vzc2lvbi1zdG9yYWdlLnNlcnZpY2VzLmpzIiwic291cmNlUm9vdCI6Im5nOi8vQGV2ZXJpcy9jb21tb25zLyIsInNvdXJjZXMiOlsibGliL3NlcnZpY2VzL3N0b3JhZ2Uvc2Vzc2lvbi1zdG9yYWdlLnNlcnZpY2VzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7QUFBQSxPQUFPLEVBQUUsVUFBVSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBQzNDLE9BQU8sRUFBRSxrQkFBa0IsRUFBRSxNQUFNLGNBQWMsQ0FBQztBQUdsRCxNQUFNLHVCQUF3QixTQUFRLGtCQUFrQjs7O1lBRHZELFVBQVUiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBJbmplY3RhYmxlIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBDb3JlQnJvd3NlclN0b3JhZ2UgfSBmcm9tICdAZXZlcmlzL2NvcmUnO1xuXG5ASW5qZWN0YWJsZSgpXG5leHBvcnQgY2xhc3MgRXZTZXNzaW9uU3RvcmFnZSBleHRlbmRzIENvcmVCcm93c2VyU3RvcmFnZSB7IH1cbiJdfQ==

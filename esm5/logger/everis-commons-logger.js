@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { EvLoggerModule, EvLogger } from './public_api';
+export { _buildLoggerCtrl as ɵa } from './lib/ev-logger.module';
+export { LoggerConfig as ɵb } from './lib/ev-logger.services';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZXZlcmlzLWNvbW1vbnMtbG9nZ2VyLmpzIiwic291cmNlUm9vdCI6Im5nOi8vQGV2ZXJpcy9jb21tb25zL2xvZ2dlci8iLCJzb3VyY2VzIjpbImV2ZXJpcy1jb21tb25zLWxvZ2dlci50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEseUNBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxnQkFBZ0IsSUFBSSxFQUFFLEVBQUMsTUFBTSx3QkFBd0IsQ0FBQztBQUM5RCxPQUFPLEVBQUMsWUFBWSxJQUFJLEVBQUUsRUFBQyxNQUFNLDBCQUEwQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge19idWlsZExvZ2dlckN0cmwgYXMgybVhfSBmcm9tICcuL2xpYi9ldi1sb2dnZXIubW9kdWxlJztcbmV4cG9ydCB7TG9nZ2VyQ29uZmlnIGFzIMm1Yn0gZnJvbSAnLi9saWIvZXYtbG9nZ2VyLnNlcnZpY2VzJzsiXX0=
